@@ -7,7 +7,7 @@ import Link from "next/link"
 
 export default function Hero() {
   return (
-    <section id="hero" className="h-screen flex items-center justify-center px-6 relative overflow-hidden">
+    <section id="hero" className="min-h-screen overflow-y-auto lg:h-screen flex items-center justify-center px-6 relative overflow-hidden">
       {/* Subtle background elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-20 left-10 w-72 h-72 bg-blue-500/10 rounded-full blur-3xl" />
