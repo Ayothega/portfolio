@@ -2,8 +2,6 @@
 import { motion } from "motion/react";
 import { Mail, MessageSquare, Send, Github, Linkedin, Twitter } from "lucide-react";
 import { Button } from "./ui/button";
-import { Input } from "./ui/input";
-import { Textarea } from "./ui/textarea";
 import { useState } from "react";
 
 const socialLinks = [

@@ -83,7 +83,7 @@ export default function Navbar() {
           >
             <Link href="/contact">
               <Button
-                className="relative px-6 py-2 rounded-full border-2 border-white/80 bg-transparent text-white hover:bg-white hover:text-slate-900 transition-all duration-300 overflow-hidden group hover:shadow-lg hover:shadow-white/20 hover:scale-105"
+                className="cursor-pointer relative px-6 py-2 rounded-full border-2 border-white/80 bg-transparent text-white hover:bg-white hover:text-slate-900 transition-all duration-300 overflow-hidden group hover:shadow-lg hover:shadow-white/20 hover:scale-105"
                 style={{ letterSpacing: "0.02em" }}
               >
                 <span className="relative z-10">Get In Touch</span>
