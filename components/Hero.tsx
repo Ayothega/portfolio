@@ -33,7 +33,7 @@ export default function Hero() {
               AKINTOLA AYOMIDE JONATHAN
             </h1>
             <p className="text-3xl md:text-4xl lg:text-3xl font-semibold text-yellow-300 max-w-xl">
-              Frontend & Fullstack Developer
+              Fullstack Developer
             </p>
           </motion.div>
 

@@ -5,9 +5,10 @@ import { Code2, Palette, Zap, Users } from "lucide-react";
 const skills = [
   { name: "React & Next.js", level: 95, color: "bg-blue-500" },
   { name: "React Native", level: 85, color: "bg-blue-800"}, 
+  { name: "JavaScript", level: 90, color: "bg-yellow-500" },
   { name: "TypeScript", level: 90, color: "bg-cyan-500" },
   { name: "Tailwind CSS", level: 95, color: "bg-cyan-800" },
-  { name: "Motion & Animations", level: 85, color: "bg-pink-500" },
+  { name: "Nodejs & Nestjs", level: 80, color: "bg-pink-500"},
   { name: "SupaBase", level: 85, color: "bg-green-500" },
 
 ];
